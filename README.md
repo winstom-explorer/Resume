@@ -25,7 +25,7 @@
 #### Microsoft Windows
 1. Active Directory
 2. Group Policy
-#### Other
+#### Linux
 1. Docker
 
 >### Web Project
