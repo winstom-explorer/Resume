@@ -47,10 +47,12 @@
 1. Facebook API integration
 2. Android APP maintenance
 3. Angular project maintenance
+4. OAuth authorization adjustments
 
 #### ERP Maintenance
 1. C++ convert to C#
 2. Convert Informix 4GL to C#
 3. Informix to Oracle
 4. Subsystem behavior adjustments
-5. Unit test
+5. Common library adjustments
+6. Newcomer training
